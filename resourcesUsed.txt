@@ -1,0 +1,29 @@
+http://www.w3schools.com/jsref/jsref_random.asp
+
+Math.floor((Math.random() * 10) + 1); 
+------------------------------------------------------------------------------------
+http://www.w3schools.com/js/js_switch.asp
+
+switch(expression) {
+    case n:
+        code block
+        break;
+    case n:
+        code block
+        break;
+    default:
+        default code block
+}
+------------------------------------------------------------------------------------
+http://stackoverflow.com/questions/2554149/html-javascript-change-div-content
+
+document.getElementById("content").innerHTML = "whatever";
+------------------------------------------------------------------------------------
+http://www.w3schools.com/jsref/jsref_splice.asp
+------------------------------------------------------------------------------------
+http://stackoverflow.com/questions/586182/insert-item-into-array-at-a-specific-index
+------------------------------------------------------------------------------------
+http://www.w3schools.com/js/js_popup.asp  (confirm prompt)
+------------------------------------------------------------------------------------
+http://stackoverflow.com/questions/20566660/3-column-layout-html-css
+

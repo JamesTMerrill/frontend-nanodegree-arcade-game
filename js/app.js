@@ -73,6 +73,7 @@ function reset() {
 	player= new Player();
 	level=defaultLevel;
 	changeBoard("levelNum",level);
+	changeBoard("lives",defaultLives);
 }
 
 // Draw the enemy on the screen, required method for game
